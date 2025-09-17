@@ -2,7 +2,7 @@
 Flask Hello World Application
 
 A simple Flask web application that returns a Hello World message.
-Designed to run on port 8081 for EKS deployment.
+Designed to run on port 8000 for EKS deployment.
 """
 
 from flask import Flask

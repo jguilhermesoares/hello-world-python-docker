@@ -295,7 +295,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Common Issues
 
-1. **Port conflicts**: Ensure ports 8000/8081 are not in use
+1. **Port conflicts**: Ensure port 8000 is not in use
 2. **Docker build fails**: Check that all files are present and requirements.txt is valid
 3. **Kubernetes deployment fails**: Verify all environment variables are set correctly
 4. **Health checks failing**: Ensure the application is listening on the correct port
